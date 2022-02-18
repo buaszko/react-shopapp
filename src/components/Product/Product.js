@@ -1,4 +1,4 @@
-import styles from './Product.module.scss';
+import styles from '../Product.module.scss';
 import PropTypes from 'prop-types'
 import { useState , useMemo} from 'react';
 import ProductImage from '../Products/Product/ProductImage/ProductImage';
